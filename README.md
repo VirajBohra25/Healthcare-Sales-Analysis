@@ -37,6 +37,9 @@ An end-to-end analytics project simulating a pharma sales force effectiveness (S
 3. **Physician Segment Penetration** — % of High/Medium/Low segment physicians covered by calls
 4. **Territory Market Share** — product-wise revenue share within each territory
 
+## Dashboard Overview:
+<img width="1675" height="590" alt="image" src="https://github.com/user-attachments/assets/53c450a4-89ce-4f14-8349-ba3d7d29e7cf" />
+
 
 Interactive features:
 - Product,Territory and Quarter slicers dynamically filter Total Rx (value). Hence helping visualise quarterwise sales of different products in different territories
